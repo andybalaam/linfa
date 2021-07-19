@@ -10,7 +10,7 @@ You can find the latest API documentation [here](../rustdocs/linfa/).
 
 A good way to start is by looking at code examples. You can find them in the *examples/* folder of each sub-crate. For instance, Support Vector Machines have their examples [here](https://github.com/rust-ml/linfa/tree/master/algorithms/linfa-svm/examples).
 
-# How do contribute
+# How to contribute
 
 If you want to know how to integrate something into Linfa, take a look at the [Contribute.md](https://github.com/rust-ml/linfa/blob/master/CONTRIBUTE.md). It covers topics on the type system implementation, how to use datasets, add parameters to your algorithm, etc.
 
